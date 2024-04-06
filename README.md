@@ -1,0 +1,2 @@
+The dataset is from a direct marketing company and contains 226,129 records reflecting 137,576 orders and 100,000 customers. It contains records reflecting 219 catalog mailing events across 100,000 customers.
+Our objective is to identify product category we are interested in then develop insights by analyzing channel buying patterns, product lifetime value, sales trends, RFM customer analysis ans so on.
